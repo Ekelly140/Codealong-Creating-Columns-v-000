@@ -104,6 +104,7 @@ figcaption {
 
 [class*= "col-"]{
   margin-left: 2%;
+  padding-left: 1%
 }
 
 .first {
